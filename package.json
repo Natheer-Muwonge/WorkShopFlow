@@ -1,0 +1,17 @@
+{
+  "name": "workshopflow",
+  "version": "0.1.0",
+  "description": "Agentic pipeline automating the Do Good Institute workshop lifecycle: request intake, scheduling, confirmation, survey, and follow-up.",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "auth": "node src/auth/getRefreshToken.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.32.0",
+    "googleapis": "^144.0.0",
+    "dotenv": "^16.4.5",
+    "node-cron": "^3.0.3"
+  }
+}
