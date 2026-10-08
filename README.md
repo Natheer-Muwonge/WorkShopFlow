@@ -2,7 +2,7 @@
 
 An agentic pipeline automating the end-to-end workshop lifecycle for the Do Good Institute: request intake, ambassador matching, scheduling, confirmation, post-workshop survey, and follow-up.
 
-**Status: sandbox / dev phase.** Points at synthetic or copied test data only. Not connected to real Do Good Institute Forms, Sheets, or Calendar data. Do not point this at production data without your supervisor's sign-off.
+**Status: sandbox / dev phase.** Points to real data that is connected to real Do Good Institute Forms, Sheets, or Calendar data. The data is reviewed in production with sign-off.
 
 ## How it works
 
